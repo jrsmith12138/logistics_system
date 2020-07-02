@@ -1,5 +1,6 @@
 package logistics_system;
 
-public class main {
+public class main 
+{
 
 }
